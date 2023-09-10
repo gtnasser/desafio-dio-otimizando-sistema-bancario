@@ -1,4 +1,4 @@
-# desafio-dio-sistema-bancario
+# desafio-dio-otimizando-sistema-bancario
 Desafio de projeto da plataforma [DIO](https://web.dio.me/) - Otimizando um sistema bancário em Python
 
 ## Objetivo:
